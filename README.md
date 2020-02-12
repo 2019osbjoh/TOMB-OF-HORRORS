@@ -21,3 +21,5 @@
     - Upgrades
     - Inventory
     - Shops
+
+John's Branch
